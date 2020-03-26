@@ -9,12 +9,6 @@ This application is deployed on [Heroku](https://blooming-peak-41927.herokuapp.c
 ## Usage
 
 Adding a burger will store it in the database for persistent storage so that you can come back at any time to devour it. Once devoured, the devoured burger list and the MySQL database will be updated. Check it out [here](https://blooming-peak-41927.herokuapp.com/)!
-    
-## Badges
-
-![Dependencies Check](https://img.shields.io/david/b-vu/burger-handlebars?style=flat-square)
-![Repository Size](https://img.shields.io/github/repo-size/b-vu/burger-handlebars?style=flat-square)
-![Top Repository Language](https://img.shields.io/github/languages/top/b-vu/burger-handlebars?style=flat-square)
         
 ## Contributing
     
